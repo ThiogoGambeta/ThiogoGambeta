@@ -10,7 +10,7 @@
 #
 
 <p align="center">Estudante de Engenharia de SoftWare na Universidade da Região de Joinville(Univille). Atualmente trabalho com CodeIgniter JavaScript.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.<br> My PortFolio<br>https://thiogogambeta.github.io/My-PortFolio/
   
 #
 
