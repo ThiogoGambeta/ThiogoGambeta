@@ -19,7 +19,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00ffff&color:FFF)](mailto:thiogogambeta@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ffff&color:FFF)](https://www.linkedin.com/in/thiogo-ant%C3%B4nio-gambeta-104134274/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin?logo=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F022%2F498%2F173%2Foriginal%2F3d-linkedin-logo-icon-isolated-on-transparent-background-free-png.png
+)(https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ffff&color:FFF)](https://www.linkedin.com/in/thiogo-ant%C3%B4nio-gambeta-104134274/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00ffff&color:FFF)](https://www.instagram.com/thgambeta/#)
 
 ### 🛠️ Tecnologias & Ferramentas
