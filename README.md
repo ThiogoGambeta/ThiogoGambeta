@@ -18,8 +18,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00ffff&color:FFF)](mailto:thiogogambeta@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ffff&color:FFF)](https://www.linkedin.com/in/thiogo-ant%C3%B4nio-gambeta-104134274/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00ffff&color:FFF)](mailto:thiogogambeta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=00ffff&color:FFF)](https://www.linkedin.com/in/thiogo-ant%C3%B4nio-gambeta-104134274/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00ffff&color:FFF)](https://www.instagram.com/thgambeta/#)
 
 ### 🛠️ Tecnologias & Ferramentas
@@ -61,12 +61,16 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
         <br><br>
         <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/10/bootstrap-logo-freelogovectors.net_-400x319.png" width="50" height="50" alt="BootStrap logo" /><br>Boot Strap
         <br><br>
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_logo_icon_146591.png" width="50" height="50" alt="CodeIgniter logo" /><br>CodeIgniter
+        <br><br>
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" width="50" height="50" alt="Tailwind logo" /><br>Tailwind
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode logo" /><br>VSCode
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm logo" /><br>PyCharm
+        <br><br>
+         <img src="https://cdn.aifordevelopers.org/uploads/1752400727259434731-a4f78589d63edd61a2843306f8e11bad9590f0ca-removebg-preview.png" width="50" height="50" alt="Cursor logo" /><br>Cursor
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA logo" /><br>IntelliJ IDEA
       </td>
@@ -78,6 +82,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git logo" /><br>Git
         <br><br>
+<img src="https://logos-world.net/wp-content/uploads/2021/05/Azure-Logo.png" width="50" height="50" alt="Azure logo" /><br>Azure
+        <br><br>        
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" /><br>GitHub
       </td>
       <td align="center">
@@ -96,6 +102,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
         <br><br>
         <img src="https://icon-library.com/images/raspberry-pi-icon-png/raspberry-pi-icon-png-0.jpg" width="50" height="50" alt="Rasp Berry PI logo" /><br>RaspBery PI
       </td>
+      <td align="center">
+        <img src="https://miro.medium.com/max/640/1*zXu2vsYPZ5mqF0tOB7kupA.png" width="50" height="50" alt="React logo" /><br>React
+        <br><br>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -104,7 +114,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 ⚙️ My Commits
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiogoGambeta/ThiogoGambeta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiogoGambeta/ThiogoGambeta/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThiogoGambeta/ThiogoGambeta/output/github-contribution-grid-snake.svg">
 </picture>
