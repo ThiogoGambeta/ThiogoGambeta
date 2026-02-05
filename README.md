@@ -101,6 +101,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux logo" /><br>Linux
         <br><br>
+           <img src="https://nodered.org/about/resources/media/node-red-hexagon.png" width="50" height="50" alt="Node RED logo" /><br>Node RED
+        <br><br>
         <img src="https://icon-library.com/images/raspberry-pi-icon-png/raspberry-pi-icon-png-0.jpg" width="50" height="50" alt="Rasp Berry PI logo" /><br>RaspBery PI
       </td>
       <td align="center">
