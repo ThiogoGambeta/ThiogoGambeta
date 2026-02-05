@@ -21,6 +21,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00ffff&color:FFF)](mailto:thiogogambeta@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=00ffff&color:FFF)](https://www.linkedin.com/in/thiogo-ant%C3%B4nio-gambeta-104134274/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00ffff&color:FFF)](https://www.instagram.com/thgambeta/#)
+[![My Site](https://img.shields.io/badge/🌐%20Meu%20Site-000?style=for-the-badge)](https://thiogogambeta.github.io/My-PortFolio)
 
 ### 🛠️ Tecnologias & Ferramentas
 
