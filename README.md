@@ -45,6 +45,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python logo" /><br>Python
         <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java logo" /><br>Java
+        <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="Php logo" /><br>PHP
       </td>
       <td align="center">
@@ -93,9 +95,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux logo" /><br>Linux
         <br><br>
         <img src="https://icon-library.com/images/raspberry-pi-icon-png/raspberry-pi-icon-png-0.jpg" width="50" height="50" alt="Rasp Berry PI logo" /><br>RaspBery PI
-      </td>
-      <td align="center">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java logo" /><br>Java
       </td>
     </tr>
   </tbody>
