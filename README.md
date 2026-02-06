@@ -108,6 +108,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
       <td align="center">
         <img src="https://miro.medium.com/max/640/1*zXu2vsYPZ5mqF0tOB7kupA.png" width="50" height="50" alt="React logo" /><br>React
         <br><br>
+         <img src="https://th.bing.com/th/id/R.0c1aa4a02a8705491f55f50b6520097d?rik=0f8P3h6FXqvaAg&pid=ImgRaw&r=0" width="50" height="50" alt="Next JS logo" /><br>Next JS
+        <br><br>
       </td>
     </tr>
   </tbody>
