@@ -103,7 +103,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
         <br><br>
            <img src="https://nodered.org/about/resources/media/node-red-hexagon.png" width="50" height="50" alt="Node RED logo" /><br>Node RED
         <br><br>
-        <img src="https://gitlab.com/qnx/quick-start-images/raspberry-pi-qnx-8.0-quick-start-image/-/tree/main" width="50" height="50" alt="Rasp Berry PI logo" /><br>RaspBery PI
+        <img src="https://i.namu.wiki/i/GyvYMBdFgynspO-SloseqTzqer8OXd9RNk_zoVeV6cdTZcw6qOEpj6pdvH6KsasxjYa-Lve4ecG1U-AbsLNwtQ.svg" width="50" height="50" alt="Rasp Berry PI logo" /><br>RaspBery PI
       </td>
       <td align="center">
         <img src="https://miro.medium.com/max/640/1*zXu2vsYPZ5mqF0tOB7kupA.png" width="50" height="50" alt="React logo" /><br>React
