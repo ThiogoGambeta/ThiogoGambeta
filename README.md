@@ -116,6 +116,17 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </table>
 
 </div>
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ThiogoGambeta&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThiogoGambeta/ThiogoGambeta/main/trophy.svg" alt="Troféus" />
+</p>
+
 ⚙️ My Commits
 
 <picture align="center">
