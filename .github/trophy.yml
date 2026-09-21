@@ -25,7 +25,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ThiogoGambeta
-          file: trophy.svg
+          output_path: trophy.svg
           theme: radical
           max-cols: 7
           max-rows: 1
