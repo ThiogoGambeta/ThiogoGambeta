@@ -27,8 +27,6 @@ jobs:
           username: ThiogoGambeta
           output_path: trophy.svg
           theme: radical
-          max-cols: 7
-          max-rows: 1
           token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Apply custom cyan theme
