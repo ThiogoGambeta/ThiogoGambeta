@@ -19,7 +19,7 @@ jobs:
       - name: Generate trophy SVG
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          username: Diegocodes1
+          username: ThiogoGambeta
           file: trophy.svg
           theme: radical
           max-cols: 7
