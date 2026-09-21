@@ -3,7 +3,9 @@ name: Generate Trophy
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -11,10 +13,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Generate trophy SVG
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
@@ -26,10 +31,36 @@ jobs:
           max-rows: 1
           token: ${{ secrets.TROPHY_TOKEN }}
 
+      - name: Apply custom cyan theme
+        run: |
+          python3 << 'EOF'
+          from pathlib import Path
+
+          arquivo = Path("trophy.svg")
+
+          conteudo = arquivo.read_text()
+
+          cores = {
+              "#fe428e": "#00ffff",
+              "#a9fef7": "#00ffff",
+              "#50fa7b": "#00ffff",
+          }
+
+          for antiga, nova in cores.items():
+              conteudo = conteudo.replace(antiga, nova)
+
+          arquivo.write_text(conteudo)
+
+          print("Tema #00ffff aplicado com sucesso.")
+          EOF
+
       - name: Commit and push trophy.svg
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add trophy.svg
-          git diff --staged --quiet || git commit -m "Update trophy.svg"
+
+          git diff --staged --quiet || git commit -m "chore: update trophy.svg"
+
           git push
