@@ -27,7 +27,7 @@ jobs:
           username: ThiogoGambeta
           output_path: trophy.svg
           theme: radical
-          token: ${{ secrets.TROPHY_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Apply custom cyan theme
         run: |
