@@ -120,7 +120,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThiogoGambeta&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=ThiogoGambeta&theme=radical&hide_border=true&ring=00ffff&fire=00ffff&currStreakNum=00ffff&sideNums=00ffff&currStreakLabel=00ffff&sideLabels=00ffff&dates=00ffff&stroke=00ffff"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
