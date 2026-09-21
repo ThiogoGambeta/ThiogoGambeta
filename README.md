@@ -149,10 +149,19 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://raw.githubusercontent.com/ThiogoGambeta/ThiogoGambeta/main/trophy.svg" alt="Troféus" />
 </p>
 
-⚙️ My Commits
+### ⚙️ My Commits
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiogoGambeta/ThiogoGambeta/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiogoGambeta/ThiogoGambeta/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThiogoGambeta/ThiogoGambeta/output/github-contribution-grid-snake.svg">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ThiogoGambeta/ThiogoGambeta/output/github-contribution-grid-snake-dark.svg?v=2"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ThiogoGambeta/ThiogoGambeta/output/github-contribution-grid-snake.svg?v=2"
+  >
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/ThiogoGambeta/ThiogoGambeta/output/github-contribution-grid-snake-dark.svg?v=2"
+  >
 </picture>
