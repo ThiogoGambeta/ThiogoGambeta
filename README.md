@@ -52,9 +52,9 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <sub>HTML5 • CSS3 • JavaScript</sub>
 </td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot" title="Spring Boot" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot" title="Spring Boot" />
 &nbsp;
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/10/bootstrap-logo-freelogovectors.net_-400x319.png" width="45" height="45" alt="Bootstrap" title="Bootstrap" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" title="Bootstrap" />
 &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_logo_icon_146591.png" width="45" height="45" alt="CodeIgniter" title="CodeIgniter" />
 &nbsp;
@@ -90,7 +90,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" />
 &nbsp;
-<img src="https://logos-world.net/wp-content/uploads/2021/05/Azure-Logo.png" width="45" height="45" alt="Azure" title="Azure" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="45" alt="Azure" title="Azure" />
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub" />
 <br>
@@ -106,22 +106,22 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <td align="center">
 <img src="https://uploads.sitepoint.com/wp-content/uploads/2016/08/1472279623logo-composer-transparent-badass.png" width="45" height="45" alt="Composer" title="Composer" />
 &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="45" height="45" alt="Maven" title="Maven" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="45" height="45" alt="Maven" title="Maven" />
 <br>
 <sub>Composer • Maven</sub>
 </td>
 <td align="center">
-<img src="https://logos-world.net/wp-content/uploads/2023/02/ChatGPT-Logo.png" width="45" height="45" alt="ChatGPT" title="ChatGPT" />
+<img src="https://i.pinimg.com/originals/67/a5/96/67a596df5a89ca51c948d0a4a8eea310.jpg" width="45" height="45" alt="ChatGPT" title="ChatGPT" />
 &nbsp;
 <img src="https://images.seeklogo.com/logo-png/55/3/claude-logo-png_seeklogo-554534.png" width="45" height="45" alt="Claude" title="Claude" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows" title="Windows" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows" title="Windows" />
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux" />
 <br><br>
-<img src="https://nodered.org/about/resources/media/node-red-hexagon.png" width="45" height="45" alt="Node-RED" title="Node-RED" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg" width="45" height="45" alt="Node-RED" title="Node-RED" />
 &nbsp;
-<img src="https://cdn.freebiesupply.com/logos/large/2x/raspberry-pi-logo-png-transparent.png" width="45" height="45" alt="Raspberry Pi" title="Raspberry Pi" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45" alt="Raspberry Pi" title="Raspberry Pi" />
 <br>
 <sub>ChatGPT • Claude • Windows • Linux<br>Node-RED • Raspberry Pi</sub>
 </td>
