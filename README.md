@@ -113,7 +113,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <td align="center">
 <img src="https://logos-world.net/wp-content/uploads/2023/02/ChatGPT-Logo.png" width="45" height="45" alt="ChatGPT" title="ChatGPT" />
 &nbsp;
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="45" height="45" alt="Claude" title="Claude" />
+<img src="https://images.seeklogo.com/logo-png/55/3/claude-logo-png_seeklogo-554534.png" width="45" height="45" alt="Claude" title="Claude" />
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows" title="Windows" />
 &nbsp;
@@ -121,7 +121,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <br><br>
 <img src="https://nodered.org/about/resources/media/node-red-hexagon.png" width="45" height="45" alt="Node-RED" title="Node-RED" />
 &nbsp;
-<img src="https://i.namu.wiki/i/GyvYMBdFgynspO-SloseqTzqer8OXd9RNk_zoVeV6cdTZcw6qOEpj6pdvH6KsasxjYa-Lve4ecG1U-AbsLNwtQ.svg" width="45" height="45" alt="Raspberry Pi" title="Raspberry Pi" />
+<img src="https://cdn.freebiesupply.com/logos/large/2x/raspberry-pi-logo-png-transparent.png" width="45" height="45" alt="Raspberry Pi" title="Raspberry Pi" />
 <br>
 <sub>ChatGPT • Claude • Windows • Linux<br>Node-RED • Raspberry Pi</sub>
 </td>
